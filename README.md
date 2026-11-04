@@ -3,20 +3,20 @@
 Passionné de cinéma, de télécommunications et de nouvelles technologies.
 
 ## 🧑‍💻 À propos
-- 🎓 Formation en développement web, mobile, bases de données et réseaux
-- 🧪 2 ans d'expérience en assurance qualité : rédaction de cas de test, suivi des bogues et gestion d'une équipe QA
-- 🔄 Habitué aux méthodes **Agile / Scrum**
-- 🌱 J'apprends en ce moment : Kubernetes et le développement mobile
-- 🗣️ Français et anglais
-- 📚 En dehors du code : bandes dessinées, comics et tennis
-- 🔎 **À la recherche d'un stage de fin d'études**
+- Formation en développement web, mobile, bases de données et réseaux
+- 2 ans d'expérience en assurance qualité : rédaction de cas de test, suivi des bogues et gestion d'une équipe QA
+- Habitué aux méthodes **Agile / Scrum**
+- J'apprends en ce moment : Kubernetes et le développement mobile
+- Français et anglais
+- En dehors du code : bandes dessinées, comics et tennis
+- **À la recherche d'un stage de fin d'études**
 
 ## 🛠️ Langages et technologies préférés
 ![Favoris](https://skillicons.dev/icons?i=php,cpp,kotlin,go,postgres,docker)
 
 **Aussi à l'aise avec**
 
-![Autres langages](https://skillicons.dev/icons?i=cs,dotnet,java,js,py,tailwind,bash,powershell)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,py,tailwind,bash,powershell" alt="Autres langages" height="28">
 
 ## 🧰 Outils et logiciels
 ![Outils](https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio,idea,azure)
