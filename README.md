@@ -1,8 +1,8 @@
-### Tristan, finissant en **Techniques de l'informatique** au Cégep de Lanaudière 👋
+### Tristan, finissant en **Techniques de l'informatique** au Cégep de Lanaudière
 
 Passionné de cinéma, de télécommunications et de nouvelles technologies.
 
-## 🧑‍💻 À propos
+## À propos
 - Formation en développement web, mobile, bases de données et réseaux
 - 2 ans d'expérience en assurance qualité : rédaction de cas de test, suivi des bogues et gestion d'une équipe QA
 - Habitué aux méthodes **Agile / Scrum**
@@ -11,14 +11,14 @@ Passionné de cinéma, de télécommunications et de nouvelles technologies.
 - En dehors du code : bandes dessinées, comics et tennis
 - **À la recherche d'un stage de fin d'études**
 
-## 🛠️ Langages et technologies préférés
+## Langages et technologies préférés
 ![Favoris](https://skillicons.dev/icons?i=php,cpp,kotlin,go,postgres,docker)
 
 **Aussi à l'aise avec**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,py,tailwind,bash,powershell" alt="Autres langages" height="28">
 
-## 🧰 Outils et logiciels
+## Outils et logiciels
 ![Outils](https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio,idea,azure)
 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
