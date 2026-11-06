@@ -26,6 +26,9 @@ Passionné de cinéma, de télécommunications et de nouvelles technologies.
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logoColor=white)
 ![DB Browser](https://img.shields.io/badge/DB_Browser_for_SQLite-003B57?logo=sqlite&logoColor=white)
 
+## 🏅 Badges et certifications
+[![Claude Academy](https://img.shields.io/badge/Claude_Academy-Badge_de_complétion-D97757?logo=claude&logoColor=white)](https://academy.claude.com/verify/a873ff21df3f422f88a1d2e164e261d6)
+
 ## 📫 Me joindre
 [![Courriel](https://img.shields.io/badge/Courriel-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:Tristan-Cottier-Tessier@hotmail.com)
 [![Courriel étudiant](https://img.shields.io/badge/Courriel_étudiant-2E7D32?logo=maildotru&logoColor=white)](mailto:1927373@etu.cegep-lanaudiere.qc.ca)
